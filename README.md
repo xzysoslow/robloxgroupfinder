@@ -10,7 +10,7 @@ A Python script to find Roblox groups that are empty, ownerless, and open to joi
 
 ## Requirements
 
-* Python 3.x
+* Python 3.x (http://python.org/downloads/)
 * `requests` library
 * `colorama` library
 
