@@ -32,8 +32,3 @@ Run the script and follow the prompts to:
 
 <img width="855" height="648" alt="image" src="https://github.com/user-attachments/assets/81f3abd0-a30f-4700-8955-18fac6548548" style="border-radius: 15px; width: 300px;" />
 
-
-
-## License
-
-MIT License
