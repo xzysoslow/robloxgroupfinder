@@ -28,7 +28,7 @@ A Python script to find Roblox groups that are empty, ownerless, and open to joi
 
 ### Run the script using Python:
 
-       python group_finder.py
+       python groupfinder.py
 
 **The script will prompt you to:**
 
