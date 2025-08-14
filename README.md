@@ -23,6 +23,7 @@ A Python script to find Roblox groups that are empty, ownerless, and open to joi
 * Navigate to the script folder in your terminal/command prompt.
 * Install the required libraries (see above).
 
+**Optional:** If you don’t want to install Python, simply open the `dist` folder and run the pre-built executable.
 ## Usage
 
 ### Run the script using Python:
