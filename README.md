@@ -63,5 +63,5 @@ python groupfinder.py
 
 ## Screenshot
 
-*nothing yet*
+*NOTHING YET*
 
