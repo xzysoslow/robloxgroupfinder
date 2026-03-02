@@ -1,4 +1,6 @@
-# Roblox Empty & Open Group Finder
+# INACTIVE WONT GET UPDATED !!!
+
+
 
 A Python script to find Roblox groups that are empty, ownerless, and open to join.
 
